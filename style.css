@@ -1,17 +1,17 @@
 body{
     font-family: 'Special Elite', cursive;
-    background-color: darksalmon;
+    background-color: rgb(157, 150, 150);
 }
 
 .header_div
  {
- background-color: darksalmon;
+ background-color: grey;
  color:cadetblue;
  }
  
  .header_div p{
     font-family: 'Roboto', sans-serif;
-    color: cornsilk;
+    color: grey;
     letter-spacing: 2px;
     font-size: 12px;
     font-weight: bold;
@@ -20,7 +20,7 @@ body{
 #button 
 {
     font-family: 'Roboto', sans-serif;
-    color: aquamarine;
+    color: black;
     margin-top: 30px;
     width: 125px;
     font-weight: bolder;
@@ -32,10 +32,10 @@ body{
     color: black;
     bottom:0;
     width:100%;
-    font-size: 10px;
-    background-color: azure;
+    font-size: 20px;
+    background-color: gray;
     line-height: 3;
     text-align: center;
-    text-shadow: 5px 5px 5px grey;
+    text-shadow: 5px 5px 5px blanchedalmond;
 
 }
